@@ -1,0 +1,6 @@
+# Building a Calculator
+puts "Enter a number x: "
+x = gets
+puts "Enter second number y: "
+y = gets
+puts "The total sum of " x + " and " + y + " is " ( x + y)
